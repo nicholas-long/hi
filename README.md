@@ -10,6 +10,7 @@ cryptochat experiments
 - tor client built in?
 - for journalism
 - gzip or stream compress old blocks and take new hash?
+- reply chains can go to the same partition as parent msg?
 
 ## pitfalls
 
