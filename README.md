@@ -11,6 +11,8 @@ cryptochat experiments
 - for journalism
 - gzip or stream compress old blocks and take new hash?
 - reply chains can go to the same partition as parent msg?
+- allow forks to occur for simultaneous messages but must be rectified in some deterministic manner?
+- popular consensus vs blockchain consensus? ...
 
 ## pitfalls
 
